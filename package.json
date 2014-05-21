@@ -1,6 +1,6 @@
 {
   "name": "humanname",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "A human name parser for nodejs. Parses names an split them up into parts",
   "author": {
     "name": "Christoph Hartmann",
