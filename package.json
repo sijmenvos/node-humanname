@@ -1,5 +1,5 @@
 {
-  "name": "node-humanname",
+  "name": "humanname",
   "version": "0.0.2",
   "description": "A human name parser for nodejs. Parses names an split them up into parts",
   "author": {
