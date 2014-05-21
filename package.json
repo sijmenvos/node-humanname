@@ -3,7 +3,8 @@
   "version": "0.0.1",
   "description": "A human name parser for nodejs. Parses names an split them up into parts",
   "author": {
-    "name": "Christoph Hartmann"
+    "name": "Christoph Hartmann",
+    "email": "chris@lollyrock.com"
   },
   "repository": {
     "type": "git",
