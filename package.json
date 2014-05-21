@@ -1,6 +1,6 @@
 {
   "name": "node-humanname",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A human name parser for nodejs. Parses names an split them up into parts",
   "author": {
     "name": "Christoph Hartmann",
@@ -13,13 +13,11 @@
   "bugs": {
     "url": "http://github.com/chris-rock/node-humanname/issues"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
-    "mocha" : "*"
+    "mocha": "*"
   },
-  "scripts": {
-  },
+  "scripts": {},
   "engines": {
     "node": ">= 0.8.0"
   },
