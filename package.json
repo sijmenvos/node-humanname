@@ -18,7 +18,9 @@
     "grunt-contrib-jshint": "~0.10.0",
     "grunt-mocha-test": "~0.10.2"
   },
-  "scripts": {},
+  "scripts": {
+    "test": "grunt test"
+  },
   "engines": {
     "node": ">= 0.8.0"
   },
