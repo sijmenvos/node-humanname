@@ -6,6 +6,9 @@
     "name": "Christoph Hartmann",
     "email": "chris@lollyrock.com"
   },
+  "licenses": [{
+    "type": "Apache2"
+  }],
   "repository": {
     "type": "git",
     "url": "git://github.com/chris-rock/node-humanname.git"
