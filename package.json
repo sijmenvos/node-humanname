@@ -1,14 +1,16 @@
 {
   "name": "humanname",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "A human name parser for nodejs. Parses names an split them up into parts",
   "author": {
     "name": "Christoph Hartmann",
     "email": "chris@lollyrock.com"
   },
-  "licenses": [{
-    "type": "Apache2"
-  }],
+  "licenses": [
+    {
+      "type": "Apache2"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/chris-rock/node-humanname.git"
