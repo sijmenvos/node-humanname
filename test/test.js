@@ -83,6 +83,24 @@ var names =
 		"lastName": "Williams",
 		"suffix": ""
 	}
+}, {
+	name: "Aaron bin Omar",
+	result: {
+		"salutation": "",
+		"firstName": "Aaron",
+		"initials": "",
+		"lastName": "bin Omar",
+		"suffix": ""
+	}
+}, {
+	name: "Aaron ibn Omar",
+	result: {
+		"salutation": "",
+		"firstName": "Aaron",
+		"initials": "",
+		"lastName": "ibn Omar",
+		"suffix": ""
+	}
 }]
 
 describe('Verifiy user extraction', function() {
